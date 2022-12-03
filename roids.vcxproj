@@ -133,6 +133,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="headers\gui_utils.cpp" />
+    <ClCompile Include="headers\inject.cpp" />
     <ClCompile Include="roids.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -141,6 +143,7 @@
     <ClInclude Include="headers\MemMan.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".gitignore" />
     <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

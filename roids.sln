@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "roids", "roids.vcxproj", "{B835A7CF-3665-4CCC-B2EB-828936BDC56A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B835A7CF-3665-4CCC-B2EB-828936BDC56A}.Debug|x64.ActiveCfg = Debug|x64
+		{B835A7CF-3665-4CCC-B2EB-828936BDC56A}.Debug|x64.Build.0 = Debug|x64
+		{B835A7CF-3665-4CCC-B2EB-828936BDC56A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B835A7CF-3665-4CCC-B2EB-828936BDC56A}.Debug|x86.Build.0 = Debug|Win32
+		{B835A7CF-3665-4CCC-B2EB-828936BDC56A}.Release|x64.ActiveCfg = Release|x64
+		{B835A7CF-3665-4CCC-B2EB-828936BDC56A}.Release|x64.Build.0 = Release|x64
+		{B835A7CF-3665-4CCC-B2EB-828936BDC56A}.Release|x86.ActiveCfg = Release|Win32
+		{B835A7CF-3665-4CCC-B2EB-828936BDC56A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8666BA7-D870-49B1-ABA1-600288260481}
+	EndGlobalSection
+EndGlobal

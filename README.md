@@ -1,13 +1,17 @@
 # ROIDS
-A DLL injector
-
-### Credit:
-Credit goes to *Daniel Krupinski* for the injection method.     
-This is really just a wrapper around his idea.     
-https://github.com/danielkrupinski/OneByteLdr     
-https://github.com/danielkrupinski
+A DLL injector for CS:GO
 
 ### How to use:
-- Load up the game
+- Load up the CS:GO
 - Run `roids.exe` with admin privs
-- Load your `.dll`
+- Add your dll via roids
+If everything works, your dll should've been injected
+
+
+### Compilation:
+Open *roids.sln* and change the build config to `Release | x86` and press build.
+At the end you should receive `roids.exe
+
+### Credit:
+Credi to[*Daniel Krupinski*](https://github.com/danielkrupinski) for the [injection method](https://github.com/danielkrupinski/OneByteLdr).     
+This is really just a wrapper around his idea.      
